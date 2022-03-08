@@ -1,6 +1,6 @@
 # fm-extensions
 
-##Usage in Freemarker template file
+## Usage in Freemarker template file
 It's a dependency with one Freemarker Extentions only.
 You can delegate apart from main output file temporarily again and again to different  files as shown in the example Freemarker template file (*.ftl) below:
 ```javascript
@@ -27,7 +27,7 @@ again content of main output file
 ...
 ```
 
-##Usage with plugin yaml-codegen-maven
+## Usage with plugin yaml-codegen-maven
 It's designed for use in conjunction with plugin yaml-codegen-maven as a freemarker extension too:
 ```javascript
 ...
@@ -60,6 +60,6 @@ It's designed for use in conjunction with plugin yaml-codegen-maven as a freemar
 ...    
 ...
 ```
-##Links
+## Links
 Freemarker: https://freemarker.apache.org/  
 Maven-Plugin yaml-codegen-maven: https://github.com/VboxNick/yaml-codegen-maven
