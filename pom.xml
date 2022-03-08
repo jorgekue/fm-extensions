@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.jorgekue.fm.ext</groupId>
     <artifactId>FmExtensions</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>Freemarker Extensions</name>
     <url>https://github.com/jorgekue/fm-extensions</url>
     <description>Plugin dependency for Plugin com.github.vboxnick:yaml-codegen-maven</description>
